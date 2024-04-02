@@ -1,6 +1,5 @@
 
-
-<img src="https://iframed.insendi.com/IMPERIAL/common/logo/imperial-logo.png" <h1>Machine Learning and Finance </h1>
+<img src="https://drive.google.com/uc?export=view&id=1gmxxmwCR1WXK0IYtNqvE4QXFleznWqQO" height="100"/>  <h1>Machine Learning and Finance </h1>
 
 Welcome to you all !
 
