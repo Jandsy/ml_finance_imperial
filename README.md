@@ -16,7 +16,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 ## Syllabus 
 
-| Date    |  Lectures topics  | Lectures | Corrected Lectures
+| Date    |  Lectures topics  | Lectures | Programming Session | 
 |----------| ----------- | ----------- |  ----------- | 
 | 07/04/24 |  Fundamentals of Machine Learning | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Corrections](Session_1/fundamentals_python_dauphine_correction.ipynb "Session_1")
 | 12/10/23 |  Numpy and Pandas|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Corrections](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
