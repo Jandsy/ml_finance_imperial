@@ -18,16 +18,16 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | 
 |----------| ----------- | ----------- |  ----------- | 
-| 09/04/24 |  Fundamentals of Machine Learning | [Code_Python](Session_1/fundamentals_python_dauphine.ipynb "Session_1")  <br/> | [Corrections](Session_1/fundamentals_python_dauphine_correction.ipynb "Session_1")
-| 16/04/24 |  Supervised Learning Algorithms|  [Code_Python](Session_2/numpy_and_pandas_python_dauphine.ipynb "Session_2")  <br/>  | [Corrections](Session_2/corrected_numpy_and_pandas_python_dauphine.ipynb "Session_2")
-| 23/04/24 |  Practical Implementation : Credit risk dataset |  [Code_Python](Session_3/matplotlib_yfinance_python_dauphine.ipynb "Session_3") <br/> |[Corrections](Session_3/corrected_matplotlib_yfinance_python_dauphine.ipynb "Session 3")
-| 30/04/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 07/05/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 14/05/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 21/05/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 28/05/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 04/06/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)
-| 11/06/24 |  Introduction to Neural Networks |  [White Exam](White_exam_Dauphine.pdf)  <br/> | [White Exam: Corrections](White_exam_dauphine_corrected.pdf)   <br/>
+| 09/04/24 |  Fundamentals of Machine Learning | | 
+| 16/04/24 |  Supervised Learning Algorithms|   |
+| 23/04/24 |  Practical Implementation : Credit risk dataset | |
+| 30/04/24 |  Introduction to Neural Networks | |
+| 07/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | |
+| 14/05/24 |  Neural Networks for sequences | |
+| 21/05/24 |  Practical Implementation: Sentiment Analysis| |
+| 28/05/24 |  Attention mechanisms and Transformers | |
+| 04/06/24 |  Dummy exam and revision elements | |
+| 11/06/24 |  Introduction to Neural Networks | |  <br/>
 
 
 ## Module Outline Information
