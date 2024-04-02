@@ -16,18 +16,18 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 ## Syllabus 
 
-| Date    |  Lectures topics  | Lectures | Programming Session | 
-|----------| ----------- | ----------- |  ----------- | 
-| 09/04/24 |  Fundamentals of Machine Learning | | 
-| 16/04/24 |  Supervised Learning Algorithms|   |
-| 23/04/24 |  Practical Implementation : Credit risk dataset | |
-| 30/04/24 |  Introduction to Neural Networks | |
-| 07/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | |
-| 14/05/24 |  Neural Networks for sequences | |
-| 21/05/24 |  Practical Implementation: Sentiment Analysis| |
-| 28/05/24 |  Attention mechanisms and Transformers | |
-| 04/06/24 |  Dummy exam and revision elements | |
-| 11/06/24 |  Introduction to Neural Networks | |  <br/>
+| Date    |  Lectures topics  | Lectures | Programming Session | Quizz | Additional Reading |
+|----------| ----------- | ----------- |  ----------- | ----------- | ----------- | 
+| 09/04/24 |  Fundamentals of Machine Learning | | | |
+| 16/04/24 |  Supervised Learning Algorithms| | | |
+| 23/04/24 |  Practical Implementation : Credit risk dataset | | | |
+| 30/04/24 |  Introduction to Neural Networks | | | |
+| 07/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | |
+| 14/05/24 |  Neural Networks for sequences | | | |
+| 21/05/24 |  Practical Implementation: Sentiment Analysis| | | |
+| 28/05/24 |  Attention mechanisms and Transformers | | | |
+| 04/06/24 |  Dummy exam and revision elements | | | |
+| 11/06/24 |  Introduction to Neural Networks | | | | <br/>
 
 
 ## Module Outline Information
