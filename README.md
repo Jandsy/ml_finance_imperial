@@ -26,8 +26,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 | 14/05/24 |  Neural Networks for sequences | | | |
 | 21/05/24 |  Practical Implementation: Sentiment Analysis| | | |
 | 28/05/24 |  Attention mechanisms and Transformers | | | |
-| 04/06/24 |  Dummy exam and revision elements | | | |
-| 11/06/24 |  Introduction to Neural Networks | | | | <br/>
+| 04/06/24 |  Dummy exam and revision elements | | | | <br/>
 
 
 ## Module Outline Information
