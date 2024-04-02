@@ -54,3 +54,7 @@ The goals of this course include:
 ## Contact
 
 Please feel free to contact us if you have any questions or require further information at: chichportichjeremy[at]gmail[dot]com
+
+## Previous Course Material
+
+Past course materials can be found at this (link)[https://github.com/MLFBG/MachineLearningInFinance]
