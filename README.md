@@ -57,4 +57,4 @@ Please feel free to contact us if you have any questions or require further info
 
 ## Previous Course Material
 
-Past course materials can be found at this (link)[https://github.com/MLFBG/MachineLearningInFinance]
+Past course materials can be found at this [link](https://github.com/MLFBG/MachineLearningInFinance)
