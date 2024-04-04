@@ -5,12 +5,12 @@ Welcome to you all !
 
 This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains all the materials for the course **Machine Learning and Finance 2024** at Imperial College London.
 
-## Instructor
+## Instructors
 * Arnaud de Servigny
 * Jeremy Chichportich
 
 ## Getting Started
-*
+
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 * For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
 
