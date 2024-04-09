@@ -18,15 +18,15 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | Quizz | Additional Reading |
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | 
-| 09/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb)
-| 16/04/24 |  Supervised Learning Algorithms| | | |
-| 23/04/24 |  Practical Implementation : Credit risk dataset | | | |
-| 30/04/24 |  Introduction to Neural Networks | | | |
-| 07/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | |
-| 14/05/24 |  Neural Networks for sequences | | | |
-| 21/05/24 |  Practical Implementation: Sentiment Analysis| | | |
-| 28/05/24 |  Attention mechanisms and Transformers | | | |
-| 04/06/24 |  Dummy exam and revision elements | | | | <br/>
+| 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb)
+| 23/04/24 |  Supervised Learning Algorithms| | | |
+| 30/04/24 |  Practical Implementation : Credit risk dataset | | | |
+| 07/05/24 |  Introduction to Neural Networks | | | |
+| 14/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | |
+| 21/05/24 |  Neural Networks for sequences | | | |
+| 28/05/24 |  Practical Implementation: Sentiment Analysis| | | |
+| 04/06/24 |  Attention mechanisms and Transformers | | | |
+| 11/06/24 |  Dummy exam and revision elements | | | | <br/>
 
 
 ## Module Outline Information
