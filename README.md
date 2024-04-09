@@ -14,11 +14,14 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 * The scripts are written as Jupyter notebooks and run directly in Google Colab.
 * For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
 
+## Introduction to Python
+* For students that are beginners in Python, we highly recommend to follow this Session [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb). Fell free to ask questions about it.
+
 ## Syllabus 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | Quizz | Additional Reading |
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | 
-| 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb)
+| 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| 
 | 23/04/24 |  Supervised Learning Algorithms| | | |
 | 30/04/24 |  Practical Implementation : Credit risk dataset | | | |
 | 07/05/24 |  Introduction to Neural Networks | | | |
