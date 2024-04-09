@@ -15,7 +15,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 * For those who'd like to execute the scripts locally, consider using Jupyter Notebook. Check out this [tutorial](https://test-jupyter.readthedocs.io/en/latest/install.html) on how to install Jupyter through Anaconda for detailed guidance.
 
 ## Introduction to Python
-* For students that are beginners in Python, we highly recommend to follow this Session [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb). Fell free to ask questions about it.
+* For students who are beginners in Python, we highly recommend following this [Introduction to Python](Additional_Materials/Programming_Session_0.ipynb). Feel free to ask questions about it. 
 
 ## Syllabus 
 
