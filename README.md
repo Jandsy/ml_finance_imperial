@@ -20,7 +20,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 ## Syllabus 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | Interactive Session |Quizz | Additional Reading |
-|----------| ----------- | ----------- |  ----------- | ----------- | ----------- | 
+|----------| ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | 
 | 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Interactive Session] (https://forms.gle/4sPmLkk97CuARAo57)| [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| 
 | 23/04/24 |  Supervised Learning Algorithms| | | | |
 | 30/04/24 |  Practical Implementation : Credit risk dataset | | | | |
