@@ -19,17 +19,17 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 ## Syllabus 
 
-| Date    |  Lectures topics  | Lectures | Programming Session | Quizz | Additional Reading |
+| Date    |  Lectures topics  | Lectures | Programming Session | Interactive Session |Quizz | Additional Reading |
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | 
-| 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| 
-| 23/04/24 |  Supervised Learning Algorithms| | | |
-| 30/04/24 |  Practical Implementation : Credit risk dataset | | | |
-| 07/05/24 |  Introduction to Neural Networks | | | |
-| 14/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | |
-| 21/05/24 |  Neural Networks for sequences | | | |
-| 28/05/24 |  Practical Implementation: Sentiment Analysis| | | |
-| 04/06/24 |  Attention mechanisms and Transformers | | | |
-| 11/06/24 |  Dummy exam and revision elements | | | | <br/>
+| 16/04/24 |  Fundamentals of Machine Learning | | [Code_Python](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Programming Session_1") | [Interactive Session] (https://forms.gle/4sPmLkk97CuARAo57)| [Quizz Link](https://forms.gle/PaQNYZNV6vLTaYGfA) [Quizz PDF](Quizzs/Quizz_1.pdf)| 
+| 23/04/24 |  Supervised Learning Algorithms| | | | |
+| 30/04/24 |  Practical Implementation : Credit risk dataset | | | | |
+| 07/05/24 |  Introduction to Neural Networks | | | | |
+| 14/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | | |
+| 21/05/24 |  Neural Networks for sequences | | | | |
+| 28/05/24 |  Practical Implementation: Sentiment Analysis| | | | |
+| 04/06/24 |  Attention mechanisms and Transformers | | | | |
+| 11/06/24 |  Dummy exam and revision elements | | | | |<br/>
 
 
 ## Module Outline Information
