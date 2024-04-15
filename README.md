@@ -59,5 +59,5 @@ The goals of this course include:
 
 ## Contact
 
-Please feel free to contact us if you have any questions or require further information at: chichportichjeremy[at]gmail[dot]com
+Please feel free to contact us if you have any questions or require further information at: jeremy.chichportich[at]imperial[dot]ac[dot]uk
 
