@@ -26,7 +26,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 | 30/04/24 |  Practical Implementation : Credit risk dataset | |[Code_Python](Programming_Sessions/Programming_session_3/Programming_Session_3.ipynb "Programming Session_3") [Solution_Code_Python](Programming_Sessions/Programming_session_3/Solution_Programming_Session_3.ipynb "Programming_Session_3_Corrected") | | |
 | 07/05/24 |  Introduction to Neural Networks |[Lecture](Lectures/Lecture_4.pdf)| [Code_Python](Programming_Sessions/Programming_session_4/Programming_Session_4.ipynb "Programming Session_4") [Solution_Code_Python](Programming_Sessions/Programming_session_4/Solution_Programming_Session_4.ipynb "Programming Session_4") | | |
 | 14/05/24 |  Neural Networks for sequences| |[Code_Python](Programming_Sessions/Programming_session_5/Programming_Session_5.ipynb "Programming Session_5") [Solution_Code_Python](Programming_Sessions/Programming_session_5/Solution_Programming_session_5.ipynb "Programming Session_5")  | [Interactive Session 1](https://forms.gle/NAXXG3UEGwDrrEmC9) [Interactive Session 2](https://forms.gle/pd6nDPcJ6Fr6Hq9Y9)| |
-| 21/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | | | | |
+| 21/05/24 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | | | | [Quizz](https://forms.gle/oq4GhL7RP5SZXEEi9) |
 | 28/05/24 |  Practical Implementation: Sentiment Analysis| | | | |
 | 04/06/24 |  Attention mechanisms and Transformers | | | | |
 | 11/06/24 |  Dummy exam and revision elements | | | | |<br/>
