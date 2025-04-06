@@ -3,7 +3,7 @@
 
 Welcome to you all !
 
-This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains all the materials for the course **Machine Learning and Finance 2024** at Imperial College London.
+This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains all the materials for the course **Machine Learning and Finance 2025** at Imperial College London.
 
 ## Instructors
 * Arnaud de Servigny
