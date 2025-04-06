@@ -21,14 +21,14 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | Interactive Session |Quiz | Additional Reading |
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | 
-| 11/04/25 |  Machine Learning - Setting Up the Scenes |[Lecture] | [Code_Python]  [Solution_Code_Python]| [Interactive Session]  | [Quiz Link 1] [Quiz Corrected]|   |
-| 25/04/25 |  Supervised Learning Algorithms|[Lecture] | [Code_Python] [Solution_Code_Python]| | [Quiz Grp 1]   [Quiz Grp 2]  [Quiz Corrected]| [Code Python]
-| 02/05/25 |  Practical Implementation : Credit risk dataset | |[Code_Python] [Solution_Code_Python] | | |
-| 09/05/25 |  Introduction to Neural Networks |[Lecture]| [Code_Python][Solution_Code_Python] | | |
-| 16/05/25 |  Neural Networks for sequences| [Lecture]|[Code_Python][Solution_Code_Python] |  [Interactive Session 2]| |
-| 23/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | [Lecture]|[Code_Python][Solution_Code_Python] | | [Quizz] [Quiz_Corrected] | [GloVe Paper]
-| 30/05/25 |  Practical Implementation: Sentiment Analysis| | [Code_Python][Solution_Code_Python]| |[Quiz] [Quiz_Corrected] |
-| 06/06/25 |  Attention mechanisms and Transformers |[Lecture] | | | |
+| 11/04/25 |  Machine Learning - Setting Up the Scenes || |  ||   |
+| 25/04/25 |  Supervised Learning Algorithms| | | | |
+| 02/05/25 |  Practical Implementation : Credit risk dataset | | | | |
+| 09/05/25 |  Introduction to Neural Networks | | | | |
+| 16/05/25 |  Neural Networks for sequences| | | | | |
+| 23/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | | | | | 
+| 30/05/25 |  Practical Implementation: Sentiment Analysis| |  | |
+| 06/06/25 |  Attention mechanisms and Transformers | | | | |
 | 13/06/25 |  Introduction to LLM and Revision | | | | |<br/>
 
 
