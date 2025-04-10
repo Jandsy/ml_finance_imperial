@@ -21,7 +21,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 
 | Date    |  Lectures topics  | Lectures | Programming Session | Interactive Session |Quiz | Additional Reading |
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | 
-| 11/04/25 |  Machine Learning - Setting Up the Scenes ||[Code](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Session_1") |  ||   |
+| 11/04/25 |  Machine Learning - Setting Up the Scenes ||[Code](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Session_1") |  || [Quiz](https://forms.gle/jMMGmwztNHL3Lfkf6)  |
 | 25/04/25 |  Supervised Learning Algorithms| | | | |
 | 02/05/25 |  Practical Implementation : Credit risk dataset | | | | |
 | 09/05/25 |  Introduction to Neural Networks | | | | |
