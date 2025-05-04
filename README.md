@@ -23,7 +23,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 |----------| ----------- | ----------- |  ----------- | ----------- | ----------- | ----------- | 
 | 11/04/25 |  Machine Learning - Setting Up the Scenes |[Lecture](Lecture_1.pdf)|[Code](Programming_Sessions/Programming_session_1/Programming_session_1.ipynb "Session_1") [Solution](Programming_Sessions/Programming_session_1/Corrected_Programming_session_1.ipynb) |[Interactive Session](https://forms.gle/VgF2zdDqg3fSm3MJ8)  |[Quiz](https://forms.gle/jMMGmwztNHL3Lfkf6) |  |
 | 25/04/25 |  Supervised Learning Algorithms| [Lecture](Lecture_2.pdf) | | |[Quiz](https://forms.gle/PnrNBsT89ZGtT1Ub7) |
-| 02/05/25 |  Practical Implementation : Credit risk dataset | |[Code](Programming_Sessions/Programming_Session_2/Programming_Session_2.ipynb "Session_2") [Solution](Programming_Sessions/Programming_Session_2/Programming_Session_2_solution.ipynb "Session 2")| | |
+| 02/05/25 |  Practical Implementation : Credit risk dataset | |[Code](Programming_Sessions/Programming_Session_2/Programming_Session_2.ipynb "Session_2") [Solution](Programming_Sessions/Programming_Session_2/Programming_Session_2_Solution.ipynb "Session 2")| | |
 | 09/05/25 |  Introduction to Neural Networks | | | | |
 | 16/05/25 |  Neural Networks for sequences| | | | | |
 | 23/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | | | | | 
