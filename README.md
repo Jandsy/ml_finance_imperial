@@ -25,8 +25,8 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 | 25/04/25 |  Supervised Learning Algorithms| [Lecture](Lecture_2.pdf) | | |[Quiz](https://forms.gle/PnrNBsT89ZGtT1Ub7) |
 | 02/05/25 |  Practical Implementation : Credit risk dataset | |[Code](Programming_Sessions/Programming_Session_2/Programming_Session_2.ipynb "Session_2") [Solution](Programming_Sessions/Programming_Session_2/Programming_Session_2_Solution.ipynb "Session 2")| | |
 | 09/05/25 |  Introduction to Neural Networks |[Lecture](Lecture_3.pdf) |[Code](Programming_Sessions/Programming_Session_3/Programming_Session_3.ipynb "Session_3")  | |[Quiz](https://forms.gle/qZ4ed21Gozf72462A) |
-| 16/05/25 |  Neural Networks for sequences| | | | | |
-| 23/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach  | | | | | 
+| 16/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach | | | | | |
+| 23/05/25 |  Neural Networks for sequences  | | | | | 
 | 30/05/25 |  Practical Implementation: Sentiment Analysis| |  | |
 | 06/06/25 |  Attention mechanisms and Transformers | | | | |
 | 13/06/25 |  Introduction to LLM and Revision | | | | |<br/>
