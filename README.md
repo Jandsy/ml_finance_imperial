@@ -26,8 +26,8 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 | 02/05/25 |  Practical Implementation : Credit risk dataset | |[Code](Programming_Sessions/Programming_Session_2/Programming_Session_2.ipynb "Session_2") [Solution](Programming_Sessions/Programming_Session_2/Programming_Session_2_Solution.ipynb "Session 2")| | |
 | 09/05/25 |  Introduction to Neural Networks |[Lecture](Lecture_3.pdf) |[Code](Programming_Sessions/Programming_Session_3/Programming_Session_3.ipynb "Session_3") [Solution](Programming_Sessions/Programming_Session_3/Solution_Programming_Session_3.ipynb "Session_3") | |[Quiz](https://forms.gle/qZ4ed21Gozf72462A) |
 | 16/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach |[Lecture](Lecture_5.pdf) | [Code](Programming_Sessions/Programming_Session_4/Programming_Session_4_GLOVE.ipynb "Session_4") [Solution](Programming_Sessions/Programming_Session_4/Correction_Programming_Session_Glove.ipynb "Session_4")| | | |
-| 23/05/25 |  Neural Networks for sequences  | [Lecture](Lecture_6.pdf) |[Code](Programming_Sessions/Programming_Session_5/Programming_Session_5.ipynb "Session_5") |[Interactive Session](https://forms.gle/M1DL85zw5VDMysbt5) |[Quiz](https://forms.gle/cCSgKLv8ftBG5yWr6) | 
-| 30/05/25 |  Practical Implementation: Sentiment Analysis| |  | |
+| 23/05/25 |  Neural Networks for sequences  | [Lecture](Lecture_6.pdf) |[Code](Programming_Sessions/Programming_Session_5/Programming_Session_5.ipynb "Session_5") [Solution](Programming_Sessions/Programming_Session_5/Solution_Programming_Session_5.ipynb "Session_5") |[Interactive Session](https://forms.gle/M1DL85zw5VDMysbt5) |[Quiz](https://forms.gle/cCSgKLv8ftBG5yWr6) | 
+| 30/05/25 |  Practical Implementation: Sentiment Analysis| |[Code](Programming_Sessions/Programming_Session_6/Programming_Session.ipynb "Session_6")   | |
 | 06/06/25 |  Attention mechanisms and Transformers | | | | |
 | 13/06/25 |  Introduction to LLM and Revision | | | | |<br/>
 
