@@ -28,7 +28,7 @@ This [GitHub Home page](https://github.com/Jandsy/ml_finance_imperial) contains 
 | 16/05/25 |  Introduction to Unsupervised Learning: Creating word vectors using the GloVe approach |[Lecture](Lecture_5.pdf) | [Code](Programming_Sessions/Programming_Session_4/Programming_Session_4_GLOVE.ipynb "Session_4") [Solution](Programming_Sessions/Programming_Session_4/Correction_Programming_Session_Glove.ipynb "Session_4")| | | |
 | 23/05/25 |  Neural Networks for sequences  | [Lecture](Lecture_6.pdf) |[Code](Programming_Sessions/Programming_Session_5/Programming_Session_5.ipynb "Session_5") [Solution](Programming_Sessions/Programming_Session_5/Solution_Programming_Session.ipynb "Session_5") |[Interactive Session](https://forms.gle/M1DL85zw5VDMysbt5) |[Quiz](https://forms.gle/cCSgKLv8ftBG5yWr6) | 
 | 30/05/25 |  Practical Implementation: Sentiment Analysis| |[Code](Programming_Sessions/Programming_Session_6/Programming_Session.ipynb "Session_6") [Solution](Programming_Sessions/Programming_Session_6/Solution_Programming_Session.ipynb "Session_6")  | |
-| 06/06/25 |  Attention mechanisms and Transformers | [Lecture](Lecture_7.pdf)| | | |
+| 06/06/25 |  Attention mechanisms and Transformers | [Lecture](Lecture_7.pdf)| | | [Quiz](https://forms.gle/BGzJw24eFie6M5u88)|
 | 13/06/25 |  Introduction to LLM and Revision | | | | |<br/>
 
 
